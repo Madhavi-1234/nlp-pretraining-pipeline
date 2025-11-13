@@ -1,0 +1,4 @@
+मुझे आइसक्रीम बहुत पसंद है।
+आज मौसम बहुत सुहाना है।
+I love learning NLP and Transformers.
+This is my own dataset for pretraining.
