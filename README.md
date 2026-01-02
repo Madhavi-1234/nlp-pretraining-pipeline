@@ -30,10 +30,10 @@ LLaMA2-Project/
 
 ▶️ How to Run
 
-1.Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/Madhavi-1234/LLaMA2-Project.git
-cd LLaMA2-Project
+  git clone https://github.com/Madhavi-1234/LLaMA2-Project.git
+  cd LLaMA2-Project
 
 
 2. Install dependencies:
@@ -48,9 +48,9 @@ cd LLaMA2-Project
    python pretrain_tokenizer_model.py
 
 
-4.Pretrain the LLaMA2 model:
+4. Pretrain the LLaMA2 model:
 
-  python pretrain_llama2.py
+   python pretrain_llama2.py
 
 
 5. Fine-tune the model on your dataset:
